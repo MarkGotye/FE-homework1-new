@@ -1,0 +1,42 @@
+h1{ text-align: center;
+color: rgb(17, 81, 220);
+
+}
+h2{ text-align: center;
+color: rgb(83, 124, 213);
+border: 2px solid rgb(19, 21, 166)20vw;
+}
+
+.work { background-color: rgba(0, 255, 255, 0.191); 
+
+
+}
+p { 
+    margin: 1rem;
+    text-align: justify;
+    text-indent: 10px;
+}
+
+
+*{ 
+    margin: 1rem;
+    padding: 1rem;
+}
+img  { 
+    
+    width: 1050px;
+    height: 800px;
+}
+div {
+    
+    text-align: center;
+    
+}
+.logo  { 
+    
+    
+    width: 55px;
+    height: 55px;
+    
+
+}
